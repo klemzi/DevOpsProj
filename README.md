@@ -1,2 +1,1 @@
-# DevOpsProj
-DevOps projects
+# DevOps Projects
